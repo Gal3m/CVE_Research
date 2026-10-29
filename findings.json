@@ -536,14 +536,14 @@
     "severity": "Medium",
     "library": "ckan-mcp-server",
     "repo": "https://github.com/ondata/ckan-mcp-server",
-    "cve": "CVE-2026-59865",
+    "cve": "CVE-2026-73845",
     "advisory": null,
     "status": "Assigned (see data note)",
     "title": "MQA server allowlist bypass via unanchored regex (`isValidMqaServer`).",
-    "cve_description_url": "https://nvd.nist.gov/vuln/detail/CVE-2026-59865",
-    "cve_url_osv": "https://osv.dev/vulnerability/CVE-2026-59865",
-    "cve_url_nvd": "https://nvd.nist.gov/vuln/detail/CVE-2026-59865",
-    "cve_url_mitre": "https://www.cve.org/CVERecord?id=CVE-2026-59865"
+    "cve_description_url": "https://nvd.nist.gov/vuln/detail/CVE-2026-73845",
+    "cve_url_osv": "https://osv.dev/vulnerability/CVE-2026-73845",
+    "cve_url_nvd": "https://nvd.nist.gov/vuln/detail/CVE-2026-73845",
+    "cve_url_mitre": "https://www.cve.org/CVERecord?id=CVE-2026-73845"
   },
   {
     "program": "mcp",
@@ -592,14 +592,14 @@
     "severity": "Low",
     "library": "ckan-mcp-server",
     "repo": "https://github.com/ondata/ckan-mcp-server",
-    "cve": "CVE-2026-59865",
+    "cve": "CVE-2026-73844",
     "advisory": null,
     "status": "Assigned (see data note)",
     "title": "Information disclosure via verbose error reflection.",
-    "cve_description_url": "https://nvd.nist.gov/vuln/detail/CVE-2026-59865",
-    "cve_url_osv": "https://osv.dev/vulnerability/CVE-2026-59865",
-    "cve_url_nvd": "https://nvd.nist.gov/vuln/detail/CVE-2026-59865",
-    "cve_url_mitre": "https://www.cve.org/CVERecord?id=CVE-2026-59865"
+    "cve_description_url": "https://nvd.nist.gov/vuln/detail/CVE-2026-73844",
+    "cve_url_osv": "https://osv.dev/vulnerability/CVE-2026-73844",
+    "cve_url_nvd": "https://nvd.nist.gov/vuln/detail/CVE-2026-73844",
+    "cve_url_mitre": "https://www.cve.org/CVERecord?id=CVE-2026-73844"
   },
   {
     "program": "mcp",
