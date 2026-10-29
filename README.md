@@ -7,7 +7,7 @@ Coordinated-disclosure vulnerability research. Every finding below links to its 
 ## At a glance
 
 - **56 findings** across **15 projects / libraries**
-- **41 assigned CVEs** with public IDs, plus 6 CVEs assigned (IDs pending) and 2 upstream acknowledgments
+- **43 assigned CVEs** with public IDs, plus 6 CVEs assigned (IDs pending), 5 upstream advisory fixes, and 2 acknowledgments
 - Severity: 🔴 27 Critical · 🟠 9 High · 🟡 9 Medium · ⚪ 3 Low
 - Two research programs: **OpenAPI / Swagger code generators** and the **Model Context Protocol (MCP) ecosystem**
 
